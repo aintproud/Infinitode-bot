@@ -1,0 +1,11 @@
+This is my first full program on python, I learnt this language by making 
+it, projecting had been hard but I made it after some time. This was pretty
+good experience for me, that's why this program is fascinating shape of my heart
+even today.
+
+Bot set up towers and miners to farm money and materials. It's possible to make 
+loop, and farm for all day and night, but I did not think about this while I was 
+developing program. So this program target plates with OpenCV and move computer mouse, 
+press keyboard's buttons by pyautogui.
+
+Project is required mobile emulator and personal screenshots and parameters to work.
